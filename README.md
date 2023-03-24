@@ -52,7 +52,8 @@ Análisis a la eficiencia del servicio de transporte entre dos ciudades.
       La comparación del servicio ofrecido y del servicio necesario es representado en el gráfico anterior. Los ajustes van de una reducción de 48% en el número de viajes el día domingo, hasta un 70% para los días lunes. 
 
 3.	Resultado
-Después de presentar los hallazgos en los datos y presentar los ajustes requeridos con los socios de la compañía, se presentaron algunas restricciones a la hora de ajustar los horarios, que llevaron a una reducción más conservadora del 20% en el número de viajes ofrecidos por la compañía. 
+
+    Después de presentar los hallazgos en los datos y presentar los ajustes requeridos con los socios de la compañía, se presentaron algunas restricciones a la hora de ajustar los horarios, que llevaron a una reducción más conservadora del 20% en el número de viajes ofrecidos por la compañía. 
 Los días lunes, de 320 viajes, en promedio, se redujeron a 260 viajes; de martes a sábado, la reducción fue de 260 a 216 viajes; el único día que resultó sin cambios, fue el día domingo, quedando con un promedio de 77 viajes.
 
     ![Ajuste 20](https://user-images.githubusercontent.com/118465839/227620545-265c40d7-e4c6-43fc-9741-d79a71e0878d.png)
